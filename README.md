@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0284-peeking-iterator) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
