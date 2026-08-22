@@ -35,8 +35,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0013-roman-to-integer) |
+| [0089-gray-code](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0089-gray-code) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0013-roman-to-integer) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
