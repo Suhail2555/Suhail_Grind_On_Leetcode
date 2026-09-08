@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0268-missing-number) |
 | [0284-peeking-iterator](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0284-peeking-iterator) |
+| [0322-coin-change](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0139-word-break) |
+| [0322-coin-change](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0322-coin-change) |
 ## Memoization
 |  |
 | ------- |
@@ -120,8 +122,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0100-same-tree) |
+| [0322-coin-change](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0100-same-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
