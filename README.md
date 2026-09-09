@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0146-lru-cache) |
 | [0284-peeking-iterator](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0284-peeking-iterator) |
 ## Iterator
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0322-coin-change) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
