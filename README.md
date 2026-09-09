@@ -116,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0100-same-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0100-same-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0100-same-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Knapsack Problem
 |  |
 | ------- |
