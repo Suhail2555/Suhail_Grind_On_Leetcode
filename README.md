@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0089-gray-code) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Backtracking
 |  |
 | ------- |
