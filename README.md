@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0089-gray-code) |
+| [0191-number-of-1-bits](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
