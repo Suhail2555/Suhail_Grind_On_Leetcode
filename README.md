@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Backtracking
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0091-decode-ways](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0337-house-robber-iii) |
