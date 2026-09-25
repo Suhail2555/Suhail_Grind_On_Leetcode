@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0174-dungeon-game) |
 | [0268-missing-number](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0268-missing-number) |
 | [0284-peeking-iterator](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0284-peeking-iterator) |
 | [0322-coin-change](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0322-coin-change) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0174-dungeon-game) |
 | [0322-coin-change](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0337-house-robber-iii) |
 ## Memoization
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0337-house-robber-iii) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/Suhail2555/Suhail_Grind_On_Leetcode/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
